@@ -24,7 +24,7 @@
 ## Project Name:Student Grade Tracker
 ### Objective
 Objective Of this project is to provide space for Admin/Staff to Submit Student Result Data and Student at their side can view their own results.
-Built GUI for Calculator which works on mouse clicks on each key of calculator and works similar to Calculator Hardware.
+Built GUI for Student side Login and Main Page similarly for Software admin/staff can login and manage data on another side.
 ### Key Activities
 -> **Built GUI**-Using NetBeans JFrame Form Created GUI of Calculator<br>
 -> **Assign Variables** - Assign Variables to each keys and  Objects<br>
