@@ -25,19 +25,11 @@
 ### Objective
 Objective Of this project is to provide space for Admin/Staff to Submit Student Result Data and Student at their side can view their own results.
 Built GUI for Student side Login and Main Page similarly for Software admin/staff can login and manage data on another side.
-### Key Activities
--> **Built GUI**-Using NetBeans JFrame Form Created GUI of Calculator<br>
--> **Assign Variables** - Assign Variables to each keys and  Objects<br>
--> **Assign Events** - Given MouseClick/Action Performed Event for each buttons in the calculator<br>
--> **Coding**- In coding part described the Functions and Variable Declaration to make calculator working perfectly.<br>
 ### Technologies Used
 -> **Java Programming**<br>
 -> **Apache NetBeans**<br>
 -> **Absolute Layout**<br>
 -> **Mysql Database Connector**
-### File Description
-
-
 ### Working 
 Download this Git repository as Zip folder and extract.<br>
 Then Open in NetBeans Folder.
