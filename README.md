@@ -8,7 +8,8 @@
 **Mentor:** Neela Santhosh Kumar <br>
 # Overview Of Project
 ## Task 2:  Student_Grade_Tracker 
-![Screenshot 2024-07-03 103359](https://github.com/PrudhwiRaj1/Student_Grade_Tracker/assets/174160463/3d687dbc-8329-45c5-9376-381dfe901d4c) 
+![Screenshot 2024-07-03 113743](https://github.com/PrudhwiRaj1/Student_Grade_Tracker/assets/174160463/ba245b8c-7675-456b-a06b-032305c2e97a)
+
 <br> **Student Side  Page when Student login** <br>
 ![Screenshot 2024-07-03 103720](https://github.com/PrudhwiRaj1/Student_Grade_Tracker/assets/174160463/cf61de4c-2935-463a-a9ad-cf2b51a38053)
 <br>**Student Login**<br>
